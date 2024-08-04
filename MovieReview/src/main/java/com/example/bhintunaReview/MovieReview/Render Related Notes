@@ -1,0 +1,9 @@
+Steps to deploy in render:
+ E:\MoviewReviewWebApplication\backend> New-Item -Path . -Name "Dockerfile" -ItemType "file"
+
+ Creating jar file:
+    mvn clean package
+jar file : Movies-0.0.1-SNAPSHOT.jar
+Build docker image=> docker build -t my-java-app .
+Run docker container => docker run -d -p 8080:8080 my-java-app
+Now got to the render and connect the github

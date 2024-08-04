@@ -1,0 +1,1 @@
+E:\MoviewReviewWebApplication\frontend> New-Item -Path . -Name "Dockerfile" -ItemType "file"

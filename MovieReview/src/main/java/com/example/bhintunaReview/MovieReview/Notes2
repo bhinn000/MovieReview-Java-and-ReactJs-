@@ -1,0 +1,6 @@
+@SpringBootApplication marks the beginning of the project process flow
+@RestController : covers the http requests
+@Service: contains the business logic
+@Repository: deals with the database
+
+@Service deals with @Repository to deal with database
