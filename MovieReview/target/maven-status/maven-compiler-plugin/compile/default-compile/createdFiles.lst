@@ -1,0 +1,10 @@
+com\example\bhintunaReview\MovieReview\ReviewController.class
+com\example\bhintunaReview\MovieReview\Review.class
+com\example\bhintunaReview\MovieReview\MovieRepository.class
+com\bhintunaMovies\Movies\CORS.class
+com\example\bhintunaReview\MovieReview\MovieController.class
+com\example\bhintunaReview\MovieReview\MovieService.class
+com\example\bhintunaReview\MovieReview\ReviewService.class
+com\example\bhintunaReview\MovieReview\Movie.class
+com\example\bhintunaReview\MovieReview\MoviesApplication.class
+com\example\bhintunaReview\MovieReview\ReviewRepository.class

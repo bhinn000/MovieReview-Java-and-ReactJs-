@@ -1,5 +1,4 @@
 HELP.md
-target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -34,4 +33,3 @@ build/
 
 ### ENV files ###
 .env
-/src/main/resources/application.properties
